@@ -60,7 +60,7 @@ So far, this workshop was given during
 *Note 22 Oct 2019*: These pdfs might contain some broken links and/or outdated screenshots due to recent updates of the workshop materials. Always check the [generic workshop pfd](slides/Generic/WikidataMapMakingWorkshop_Generic.pdf) for the most up to date slides .
 
 It will also be given during
-* [Wiki Techstorm III](https://www.wikimedia.nl/pagina/program), Amsterdam, 23 November 2019
+* [Wiki Techstorm III](https://www.mediawiki.org/wiki/Wiki_Techstorm/Programme/Creating_maps), Amsterdam, Sat. 23 November 2019
 * Open workshop in the [national library of The Netherlands](), The Hague, data t.b.d.
 
 ## Reusing workshop materials
