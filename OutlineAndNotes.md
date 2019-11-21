@@ -1,5 +1,5 @@
 # Workshop outline and notes
-*Latest update: 22nd October 2019*
+*Latest update: 21 November 2019*
 
 ## Module 1:  Basic flat & layered maps 
 <image src="images/module1.jpg" width="200"/><br clear="all"/>
