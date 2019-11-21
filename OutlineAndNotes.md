@@ -11,7 +11,7 @@
 * A Wikidata set of items with geo coordinates [P625](https://www.wikidata.org/wiki/Property:P625)
 
 If you do not have, or cannot create such a Wikidata set, you can use one of these: 
-1) [Public libraries in The Netherlands](https://w.wiki/6dx) (incomplete set, per 12-8-2019)
+1) [Public libraries in The Netherlands](https://w.wiki/6dx) (incomplete set, per 21-11-2019)
 2) [National heritage sites of the Netherlands](https://w.wiki/6dy) (limited to 1000 items)
 3) [Big cities](https://w.wiki/Aa9) in the world
 4) [Volcanos](https://w.wiki/6e9)
