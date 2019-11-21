@@ -8,7 +8,7 @@ In this 90-120 minutes workshop you will learn how to make both flat, clustered,
 
 You will do this in 3 modules of approx. 30-40 minutes each:
 
-* **Module 1**: You will start by making various basic [flat](https://w.wiki/6eq) and [clustered maps](https://w.wiki/6ew) in Wikidata using SPARQL queries. Next you will make some [layered maps](https://bit.ly/3368DPk), where groups of items can be toggled on/off in the map. 
+* **Module 1**: You will start by making various basic [flat](https://w.wiki/CSx) and [clustered maps](https://w.wiki/CSw) in Wikidata using SPARQL queries. Next you will make some [layered maps](https://bit.ly/3368DPk), where groups of items can be toggled on/off in the map. 
 * **Module 2**: After having explored maps in the Wikidata query interface, you are now ready to learn how to embed Wikidata-driven maps in other Wikimedia projects, such as Wikipedia and Commons ([examples](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019)). In addition to SPARQL we will look at [OpenStreetMap](https://www.openstreetmap.org), [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) and the Mediawiki [Kartographer extension](https://www.mediawiki.org/wiki/Help:Extension:Kartographer).
 * **Module 3**: Finally you will learn the steps for creating interactive, layered Wikidata-driven maps that can be used off-Wiki, ie. in regular HTML pages. In addtition to the above tools & techniques, we will use some basic Python, [Jupyter Notebooks (PAWS)](https://www.mediawiki.org/wiki/PAWS), [Jupyter-Leaflet](https://ipyleaflet.readthedocs.io/en/latest/) and [Jupyter-widgets](https://ipywidgets.readthedocs.io/en/latest/).
 
