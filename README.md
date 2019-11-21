@@ -27,7 +27,7 @@ After the workshop you will
 * Have access to map making resources, SPARQL examples and Python code snippets you can build upon for your own projects.
 
 ## Required preparations
-In order to have an effective workshop, you will need tot do some preparations before you start:
+In order to have an effective workshop, you will need to do some preparations before you start:
 * Identify a geo-referenced (P625) set of coherent items in Wikidata to work with. Aim for 100-500 items or so. ([some examples](OutlineAndNotes.md#module-1--basic-flat--layered-maps))
 * Create an account on Wikidata/ Wikimedia, if not yet done so.
 * For Module 3, set up a working PAWS server and notebook ([Help 1](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS), [Help 2](https://wikitech.wikimedia.org/wiki/PAWS), [Help 3](https://www.mediawiki.org/wiki/PAWS)) – only needed if you plan to do this module. Instead of running this notebook cloud-based on PAWS, you can also run it on a local Jupyter Notebooks installation, such as [Anaconda](https://dataiseasy.com/2019/03/how-to-install-anaconda-and-jupyter-notebook/)
