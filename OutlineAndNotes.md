@@ -150,7 +150,7 @@ And nice to have heard about
 * Exporting the map to stand-alone off-Wiki HTML file: https://ipywidgets.readthedocs.io/en/latest/embedding.html#python-interface
 * The addition of ```python state=dependency_state([m])``` keeps the html file growing too large
 * Python code: ```python embed_minimal_html('NetherlandsPublicLibrariesHeatmap.html', views=[m], state=dependency_state([m]), title='Heat map of Dutch public libraries, Wikimania map making workshop, 18th August 2019')```
-*  <a href="http://ookgezellig.github.io/WikidataMapMakingWorkshop/NetherlandsPublicLibrariesHeatmap.html">Off-Wiki version of NetherlandsPublicLibrariesHeatmap.html</a>
+*  <a href="http://kbnlwikimedia.github.io/WikidataMapMakingWorkshop/module3stuff/NetherlandsPublicLibrariesHeatmap.html">Off-Wiki version of NetherlandsPublicLibrariesHeatmap.html</a>
 
 ## Feedback
 <image src="images/thanks-and-feedback.jpg" width="200"/><br clear="all"/>
