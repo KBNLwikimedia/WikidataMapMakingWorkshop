@@ -69,7 +69,7 @@ All embedding examples below are available on https://nl.wikipedia.org/wiki/Gebr
 
 ### Module 2.2 Three locations, hard-coded
 <image src="images/2-2-three-locations-hard-coded.jpg" width="200"/><br clear="all"/>
-* Library, museum and archive in Amsterdam, geo coordinates hard-coded: https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/2. <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=4))</sub> 
+* Library, museum and archive in Amsterdam, geo coordinates hard-coded: [https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/2](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019#/map/2). <sub>([View source](https://nl.wikipedia.org/w/index.php?title=Gebruiker:OlafJanssen/KladblokMapMakingWorkshopWM2019&action=edit&section=4))</sub> 
 
 ### Module 2.3 Outline (GeoShape) via Wikidata & OpenStreetMap
 <image src="images/2-3-geoshapes-via-wikidata-and-osm.jpg" width="200"/><br clear="all"/>
