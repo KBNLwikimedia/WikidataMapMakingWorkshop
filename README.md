@@ -50,11 +50,10 @@ This workshop is given by Olaf Janssen, Wikimedia coordinator of the national li
 * https://www.kb.nl/wikipedia
 * olaf.janssen@kb.nl
 * User:OlafJanssen on [(Dutch) Wikipedia](https://nl.wikipedia.org/wiki/Gebruiker:OlafJanssen), [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:OlafJanssen) and [Wikidata](https://www.wikidata.org/wiki/User:OlafJanssen)
-* Twitter: [@ookgezellig](https://twitter.com/ookgezellig)
 
 ## Dates
 So far, this workshop was given during
-* [Wikimania 2019](https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps), Stockholm, 18 August 2019. Slides as pdfs here on [Github](slides/Wikimania2019/WikidataMapMakingWorkshop_Wikimania20190818.pdf), and also on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_making_workshop_-_from_Wikidata_to_interactive_off-Wiki_maps_in_three_steps_(Wikimania_18-08-2019).pdf) and [Zenodo](xxxxxxxx)
+* [Wikimania 2019](https://wikimania.wikimedia.org/wiki/2019:Libraries/Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps), Stockholm, 18 August 2019. Slides as pdfs here on [Github](slides/Wikimania2019/WikidataMapMakingWorkshop_Wikimania20190818.pdf), and also on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_making_workshop_-_from_Wikidata_to_interactive_off-Wiki_maps_in_three_steps_(Wikimania_18-08-2019).pdf) and [Zenodo](https://zenodo.org/records/12569740)
 * [WikidataCon 2019](https://www.wikidata.org/w/index.php?title=Wikidata:WikidataCon_2019/Program/Self-organized_sessions&oldid=1037057861#Map_making_workshop_%E2%80%93_from_Wikidata_to_interactive_off-wiki_maps_in_three_steps), Berlin, 26 October 2019. Slides as pdfs here on [Github](slides/WikidataCon2019/WikidataMapMakingWorkshop_WikidataCon20191026.pdf).
 * [Wiki Techstorm III](https://www.mediawiki.org/wiki/Wiki_Techstorm/Programme/Creating_maps), Amsterdam, 23 November 2019. Slides as pdfs here on [Github](slides/WikiTechstormNov2019/WikidataMapMakingWorkshop_WikiTechstorm20191123.pdf) and also on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_making_workshop_-_from_Wikidata_to_interactive_off-Wiki_maps_in_three_steps_(Wiki_Techstorm_23-11-2019).pdf).
 
