@@ -1,4 +1,9 @@
-[<< Back to index of this workshop](https://kbnlwikimedia.github.io/WikidataMapMakingWorkshop/)
+<table width="100%" border="0"><tr><td align="left">
+<a href="https://kbnlwikimedia.github.io/WikidataMapMakingWorkshop/"><< Back to index of this workshop</a>
+</td><td align="right">
+<a href="https://github.com/KBNLwikimedia/WikidataMapMakingWorkshop" target="_blank">>> To the Github repo of this page</a>
+</td></tr></table>
+<hr/>
 
 # Workshop outline and notes
 *Latest update: 21 November 2019*
