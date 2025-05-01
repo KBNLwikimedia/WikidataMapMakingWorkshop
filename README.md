@@ -1,3 +1,5 @@
+[<< Back to workshops and courses index](https://kbnlwikimedia.github.io/workshops-courses)
+
 # Map making workshop – from Wikidata to interactive off-Wiki maps in three steps
 *Latest update: 21 November 2019*
 
