@@ -1,3 +1,5 @@
+[<< Back to index of this workshop](https://kbnlwikimedia.github.io/WikidataMapMakingWorkshop/)
+
 # Workshop outline and notes
 *Latest update: 21 November 2019*
 
